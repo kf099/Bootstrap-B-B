@@ -16,3 +16,9 @@ body {
     padding-top:1.5em;
     padding-bottom: 2.5em;
 }
+.threecards {
+    max-width: 55%;
+    margin: auto;
+    padding-top: 2.5em;
+
+}
