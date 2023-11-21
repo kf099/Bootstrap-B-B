@@ -20,5 +20,12 @@ body {
     max-width: 55%;
     margin: auto;
     padding-top: 2.5em;
-
+}
+.contact-container {
+    padding: 1em;
+    max-width: 55%;
+    margin: auto;
+    background-color:#e6e6e6;
+    border-radius: 15px;
+    border:1px solid rgba(114, 114, 114, 0.37);
 }
