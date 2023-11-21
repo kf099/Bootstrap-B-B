@@ -4,3 +4,15 @@ body {
     font-size: 32px;
     color: #2b2b2b;
 }
+
+.carousel-frame {
+    max-width: 55%;
+    max-height: 500px;
+    margin: auto;
+}
+.infobox {
+    margin:auto;
+    max-width:55%;
+    padding-top:1.5em;
+    padding-bottom: 2.5em;
+}
